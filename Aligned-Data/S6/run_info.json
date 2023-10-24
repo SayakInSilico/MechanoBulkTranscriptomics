@@ -1,0 +1,13 @@
+{
+	"n_targets": 207249,
+	"n_bootstraps": 0,
+	"n_processed": 65600234,
+	"n_pseudoaligned": 10501204,
+	"n_unique": 1997585,
+	"p_pseudoaligned": 16.0,
+	"p_unique": 3.0,
+	"kallisto_version": "0.48.0",
+	"index_version": 10,
+	"start_time": "Sat Oct 21 14:49:33 2023",
+	"call": "kallisto quant -i ../../Reference/human_reference.index -o S6 -t 24 30_kPa_3hr_S6_R1_001.fastq.gz 30_kPa_3hr_S6_R2_001.fastq.gz"
+}

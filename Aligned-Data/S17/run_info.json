@@ -1,0 +1,13 @@
+{
+	"n_targets": 207249,
+	"n_bootstraps": 0,
+	"n_processed": 134404782,
+	"n_pseudoaligned": 86765458,
+	"n_unique": 21912608,
+	"p_pseudoaligned": 64.6,
+	"p_unique": 16.3,
+	"kallisto_version": "0.48.0",
+	"index_version": 10,
+	"start_time": "Sun Oct 22 18:10:49 2023",
+	"call": "kallisto quant -i ../../Reference/human_reference.index -o S17 -t 20 YK1_UN_Replicate_1_S17_R1_001.fastq.gz YK1_UN_Replicate_1_S17_R2_001.fastq.gz"
+}

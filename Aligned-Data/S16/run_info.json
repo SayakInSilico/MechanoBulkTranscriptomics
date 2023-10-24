@@ -1,0 +1,13 @@
+{
+	"n_targets": 207249,
+	"n_bootstraps": 0,
+	"n_processed": 55421552,
+	"n_pseudoaligned": 8320642,
+	"n_unique": 1569085,
+	"p_pseudoaligned": 15.0,
+	"p_unique": 2.8,
+	"kallisto_version": "0.48.0",
+	"index_version": 10,
+	"start_time": "Sun Oct 22 18:09:52 2023",
+	"call": "kallisto quant -i ../../Reference/human_reference.index -o S16 -t 20 Etopsida_CTRL_S16_R1_001.fastq.gz Etopsida_CTRL_S16_R2_001.fastq.gz"
+}
